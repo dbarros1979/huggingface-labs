@@ -21,7 +21,7 @@ Once the dependencies are properly installed, follow the steps below:
 
 ## License
 
-MIT [license](https://github.com/dbarros1979/huggingface-labs/blob/main/LICENSE)
+MIT [license](https://github.com/dbarros1979/huggingface-labs/blob/master/LICENSE)
 
 ## Author
 
