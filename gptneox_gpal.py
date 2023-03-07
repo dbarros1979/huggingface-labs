@@ -32,4 +32,4 @@ gen_tokens = model.generate(
     max_length=100,
 )
 gen_text = tokenizer.batch_decode(gen_tokens)[0]
-print(gen_text, skip_special_tokens=True)
+print(gen_text)
