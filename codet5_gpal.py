@@ -1,6 +1,6 @@
 from transformers import AutoTokenizer, T5ForConditionalGeneration
 
-hf_model_name = "icatlab-uiuc/codet5-normal"
+hf_model_name = "Salesforce/codet5-large"
 tokenizer = AutoTokenizer.from_pretrained(hf_model_name)
 model = T5ForConditionalGeneration.from_pretrained(hf_model_name)
 
